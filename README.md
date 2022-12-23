@@ -17,7 +17,7 @@ Make sure to deploy the output of `remix build`
 - `public/build/`
 
 ```sh
-npm start
+yarn start
 ```
 
 ### Change Hosting Settings
